@@ -1,0 +1,8 @@
+{
+  "name": "ai-trading-signals-otc",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Prototipo educativo de señales OTC en modo demo; no conectado a IQ Option.",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
